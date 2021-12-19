@@ -1,0 +1,4 @@
+export const Actions = {
+  API_REQUEST: "API_REQUEST",
+  API_REQUEST_FAILED: "API_REQUEST_FAILED",
+};

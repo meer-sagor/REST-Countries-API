@@ -1,0 +1,15 @@
+.country {
+  cursor: pointer;
+}
+
+.country_content {
+  font-size: 1.4rem;
+  padding: 2rem;
+}
+.country_content h2 {
+  padding-bottom: 1rem;
+  font-weight: 600;
+}
+.country_content p {
+  padding-bottom: 0.5rem;
+}
